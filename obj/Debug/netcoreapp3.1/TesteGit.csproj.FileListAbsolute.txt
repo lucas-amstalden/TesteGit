@@ -1,0 +1,11 @@
+C:\Projects\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.exe
+C:\Projects\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.deps.json
+C:\Projects\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.runtimeconfig.json
+C:\Projects\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.runtimeconfig.dev.json
+C:\Projects\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.dll
+C:\Projects\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.pdb
+C:\Projects\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.csprojAssemblyReference.cache
+C:\Projects\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.AssemblyInfoInputs.cache
+C:\Projects\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.AssemblyInfo.cs
+C:\Projects\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.dll
+C:\Projects\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.pdb
