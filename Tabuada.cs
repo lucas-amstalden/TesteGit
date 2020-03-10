@@ -6,6 +6,8 @@ namespace TesteGit
     {
         public void calculaTabuada()
         {  
+            Console.Clear();
+            Console.WriteLine("Classe para calcular a Tabuada");
             Console.Write("Digite o número tabuada: ");
             int aux = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("O número digitado foi: " + aux.ToString());
