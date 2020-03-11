@@ -16,7 +16,7 @@ namespace TesteGit
             Console.Clear();
             Console.WriteLine("************************************");
             Console.WriteLine("A pot do num " + num.ToString("n2") + "é = " + aux.ToString("n2"));
-            Console.Read();
+            
         }
     }
 

@@ -18,6 +18,7 @@ namespace TesteGit
             {
                 Console.WriteLine(aux + " X " + i + " = " + (aux * i));
             }
+            
         }
     }
 
